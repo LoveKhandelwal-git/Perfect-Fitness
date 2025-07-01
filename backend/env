@@ -1,8 +1,0 @@
-SECRET_KEY='your-secret-key'  
-API_KEY="AIzaSyDu9wqDadv0EgYKVh9c2LopZnC3SyhhnJ4"
-
-GOOGLE_CLIENT_ID="821754302966-eu6kbb5hoc8vp610ajlf0gl25kjcc1k1.apps.googleusercontent.com"
-GOOGLE_CLIENT_SECRET="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"
-
-GITHUB_CLIENT_ID="Ov23ligaTooKNQ63k4xd"
-GITHUB_CLIENT_SECRET="2e86b978ab23cdcdde2f7e7b32fef025afd6ee05"
