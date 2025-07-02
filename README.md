@@ -21,7 +21,7 @@ Follow the steps below to set up and run the project locally.
 
 ```bash
 
-  Clone the project using the following command:
+# Clone the project using the following command:
 git clone https://github.com/LoveKhandelwal-git/Perfect-Fitness.git/
 
 
